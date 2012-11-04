@@ -4,5 +4,4 @@ Autoloader::add_classes(array(
 	'MyOrm\\Observer_UpdatedIp' => __DIR__.'/classes/observer/updatedip.php',
 ));
 
-
 /* End of file bootstrap.php */
