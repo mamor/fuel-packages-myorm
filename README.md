@@ -1,5 +1,12 @@
 # MyOrm package auto save IP address when insert and update.
 ---
+
+## Install
+### Setup to fuel/packages/myorm
+* Use composer https://packagist.org/packages/mp-php/fuel-packages-myorm
+* git submodule add
+* Download zip
+
 ## Edit app/config/config.php
 
 	'packages'  => array(
