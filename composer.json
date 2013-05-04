@@ -1,0 +1,16 @@
+{
+	"name": "mp-php/fuel-packages-myorm",
+	"type": "fuel-package",
+	"require": {
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "myorm"
+	},
+	"authors": [
+		{
+			"name": "Mamoru Otsuka"
+		}
+	],
+	"license": "MIT"
+}
